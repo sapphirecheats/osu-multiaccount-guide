@@ -1,5 +1,7 @@
 # Sapphire Multi-Account Guide
 
+Refer to this guide when multi-accounting or evading a ban on osu!
+
 ### **Sign out and clear cookies**: 
 > 1) Ensure you're logged out of osu! on **all** platforms (in-game/browser).
 > 2) Clear your browser's cookies **completely** (all browsers).
