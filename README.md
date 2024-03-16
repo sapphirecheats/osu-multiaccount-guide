@@ -31,10 +31,10 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 > - Follow our guide below on how to gain pp in a legitimate manner:
 
 # PP (Performance Points) Guidelines:
-* **Day 1**: **Max 20pp** per play | **Max 300pp** total.
-* **Day 3**: **Max 35pp** per play | **Max 300pp** total.
-* **Week 2**: **Max 85pp** per play | **Max 350pp** total.
-* **Week 3+**: Gain pp gradually | **Max 400pp** total.
+* **Day 1**: **Max 20pp** per play | **Max 300pp** total on account.
+* **Day 3**: **Max 35pp** per play | **Max 300pp** total on account.
+* **Week 2**: **Max 85pp** per play | **Max 350pp** total on account.
+* **Week 3+**: Gain pp gradually | **Max 400pp** total on account.
 
 # Final notes and gameplay tips:
 * Before setting significant plays, increase playcount by a large factor in order to make your vast increase in skill less suspicious.
