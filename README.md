@@ -8,7 +8,7 @@
 
 ### **Utilize a VPN**:
 > - **Cloudflare WARP** or **ProtonVPN** (Free) is a solid choice.
-> - Stick to **one server** for consistent IP addresses.
+> - Stick to **one server** for a consistent IP address.
 > - Ideally, you should use a paid VPN service with residential IPs such as **Kaspersky VPN** or **Mysterium VPN**.
 
 ### **Delete osu!auth log file**:
@@ -21,7 +21,7 @@
 > 1) Once sapphire is loaded, head to the **Spoofer** tab in the menu.
 > 2) Name the profile and then click **Generate**. This will generate a unique profile that you can now use to look like a completely different computer to osu!
 > 3) Select the profile in the menu and click "Load". This will now queue the profile to be loaded upon next injection.
-> 4) **Important**: After clicking OK on the message box, **close your game and re-inject the cheat** to apply the profile!
+> 4) **Important**: After clicking OK on the message box that pops up, **close your game and re-inject the cheat** to apply the profile!
 > * **Note**: You will know the profile has loaded once you see the notification pop up saying **"Loaded spoof profile**: (name)" upon re-injection.
 
 ### **Account Creation**:
