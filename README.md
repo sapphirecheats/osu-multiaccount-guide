@@ -41,6 +41,7 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 * Avoid blatant settings to prevent manual bans.
 * Make sure to switch spoofer profiles when logging into other accounts.
 * Under **no circumstance** use any cheats **other** than sapphire.
+* If you want to go back to your real HWID, simply click "Unload" on your current profile and restart your game.
 * When disabling mods, submit plays wisely based on play count:
 > * Hidden = 5-10+ plays before submitting
 > * Flashlight: 20-25+ plays before submitting
