@@ -44,7 +44,7 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 * If you want to go back to your real HWID, simply click "Unload" on your current profile and restart your game.
 * When disabling mods, submit plays wisely based on play count:
 > * Hidden = 5-10+ plays before submitting
-> * Flashlight: 20-25+ plays before submitting
+> * Flashlight: 30-45+ plays before submitting
 
 # **End**: 
 Thank you for reading this guide! We hope you enjoy using our software and climbing the ranks ban and suspicion-free! :)
