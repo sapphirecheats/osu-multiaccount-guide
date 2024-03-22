@@ -13,9 +13,6 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 > - Stick to **one server** for a consistent IP address.
 > - Ideally, you should use a paid VPN service with residential IPs such as **Kaspersky VPN** or **Mysterium VPN**.
 
-### **Delete osu!auth log file**:
-> - Delete **osu!auth.log** from your osu! folder located in the "Logs" folder in your osu! path
-
 ### **Inject Sapphire**:
 > - While your game is closed, run the sapphire loader (https://sapphire.ac/download), click "Load Cheat" and start your osu!
 
@@ -25,6 +22,9 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 > 3) Select the profile in the menu and click "Load". This will now queue the profile to be loaded upon next injection.
 > 4) **Important**: After clicking OK on the message box that pops up, **close your game and re-inject the cheat** to apply the profile!
 > * **Note**: You will know the profile has loaded once you see the notification pop up saying **"Loaded spoof profile**: (name)" upon re-injection.
+
+### **Delete osu!auth log file**:
+> - Delete **osu!auth.log** from your osu! folder located in the "Logs" folder in your osu! path
 
 ### **Account Creation**:
 > - Register a new osu! account
