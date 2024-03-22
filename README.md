@@ -41,6 +41,7 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 * **Week 3**: **100pp+** per play. Gain pp gradually | **500pp+ - free to roam**.
 
 # Final notes and gameplay tips:
+* It is **HIGHLY** recommended to login in-game with "Remember password" unchecked, so you are always signed out every time you open osu! (to prevent accidentally logging in with real HWID). Or just log out after every osu! session.
 * Before setting significant plays, increase playcount by a large factor in order to make your vast increase in skill less suspicious.
 * Avoid blatant settings to prevent manual bans.
 * Make sure to switch spoofer profiles when logging into other accounts.
