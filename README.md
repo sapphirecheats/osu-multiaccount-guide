@@ -20,11 +20,15 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 > 1) Once sapphire is loaded, head to the **Spoofer** tab in the menu.
 > 2) Name the profile and then click **Generate**. This will generate a unique profile that you can now use to look like a completely different computer to osu!
 > 3) Select the profile in the menu and click "Load". This will now queue the profile to be loaded upon next injection.
-> 4) **Important**: After clicking OK on the message box that pops up, **close your game and re-inject the cheat** to apply the profile!
-> * **Note**: You will know the profile has loaded once you see the notification pop up saying **"Loaded spoof profile**: (name)" upon re-injection.
+> 4) **Important**: After clicking OK on the message box that pops up, close your game and delete osu!auth Logs (below).
 
 ### **Delete osu!auth log file**:
 > - Delete **osu!auth.log** from your osu! folder located in the "Logs" folder in your osu! path
+
+### **Loading spoofer profile**:
+- After doing the steps above, simply **re-inject the cheat** to apply the profile!
+> * **Note**: You will know the profile has loaded once you see the notification pop up saying **"Loaded spoof profile**: (name)" upon re-injection.
+
 
 ### **Account Creation**:
 > - Register a new osu! account
