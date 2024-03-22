@@ -25,6 +25,8 @@ Refer to this guide when multi-accounting or evading a ban on osu!
 ### **Delete osu!auth log file**:
 > - Delete **osu!auth.log** from your osu! folder located in the "Logs" folder in your osu! path
 
+**Important**: Always clear osu!auth.log when switching accounts (delete the file before you log in).
+
 ### **Loading spoofer profile**:
 - After doing the steps above, simply **re-inject the cheat** to apply the profile!
 > * **Note**: You will know the profile has loaded once you see the notification pop up saying **"Loaded spoof profile**: (name)" upon re-injection.
